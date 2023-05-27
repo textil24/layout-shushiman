@@ -1,6 +1,6 @@
 # Верстка Sushiman
 
-![shushi](https://github.com/textil24/layout-shushiman/assets/77049921/788bc42f-f87f-40b6-8a5a-b8bb9373b2ad)
+![Без имени](https://github.com/textil24/layout-shushiman/assets/77049921/7fdfc562-3789-483a-9b88-e55c9a9062ef)
 
 # Стек:
 

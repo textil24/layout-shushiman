@@ -1,4 +1,4 @@
-# Фронтенд Sushiman
+# Верстка Sushiman
 
 ![241383352-7fdfc562-3789-483a-9b88-e55c9a9062ef](https://github.com/textil24/layout-sushiman/assets/77049921/39a8513f-d1f7-442a-b347-cc8cc33183f1)
 
